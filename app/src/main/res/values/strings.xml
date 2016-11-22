@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="language_pick">Velg språk/Choose your language</string>
+    <string-array name="car_brands">
+        <item>VOLVO</item>
+        <item>SAAB</item>
+        <item>JAGUAR</item>
+        <item>TESLA</item>
+        <item>FORD</item>
+        <item>TOYOTA</item>
+        <item>SUZUKI</item>
+        <item>LAMBORGHINI</item>
+        <item>FERRARI</item>
+        <item>LADA</item>
+        <item>OPEL</item>
+    </string-array>
+    <array name="images">
+        <item>@drawable/img0</item>
+        <item>@drawable/img1</item>
+        <item>@drawable/img2</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img4</item>
+        <item>@drawable/img5</item>
+        <item>@drawable/img6</item>
+        <item>@drawable/img7</item>
+        <item>@drawable/img8</item>
+    </array>
+</resources>
